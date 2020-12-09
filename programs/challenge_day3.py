@@ -10,4 +10,4 @@ def zip(input1, input2):
 print(zip("String", "Fridge"))
 print(zip("Dog", "Cat"))
 print(zip("True", "Tre4"))
-
+print(zip("True", "QACommunity"))
